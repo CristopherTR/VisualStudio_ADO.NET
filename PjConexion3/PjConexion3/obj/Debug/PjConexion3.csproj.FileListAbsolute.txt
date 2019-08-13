@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe.config
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\bin\Debug\PjConexion3.pdb
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Form1.resources
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Properties.Resources.resources
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.exe
+C:\Users\Alumno\source\repos\PjConexion3\PjConexion3\obj\Debug\PjConexion3.pdb

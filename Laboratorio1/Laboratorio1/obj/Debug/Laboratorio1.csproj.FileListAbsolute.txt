@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe.config
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.exe
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\bin\Debug\Laboratorio1.pdb
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.Form1.resources
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.exe
+C:\Users\Alumno\source\repos\Laboratorio1\Laboratorio1\obj\Debug\Laboratorio1.pdb

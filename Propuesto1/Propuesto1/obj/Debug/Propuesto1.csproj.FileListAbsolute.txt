@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\bin\Debug\Propuesto1.exe.config
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\bin\Debug\Propuesto1.exe
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\bin\Debug\Propuesto1.pdb
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.Form1.resources
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.exe
+C:\Users\Alumno\source\repos\Propuesto1\Propuesto1\obj\Debug\Propuesto1.pdb
